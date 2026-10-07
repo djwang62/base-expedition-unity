@@ -13,6 +13,6 @@ PlayerSettings:
   m_CompanyName: Portfolio
   m_UseDefaultScreenWidth: 1
   m_UseDefaultScreenHeight: 1
-  m_ActiveInputHandler: 0
+  activeInputHandler: 2
   m_ScriptingBackend: 1
   m_UsePlayerLog: 1
